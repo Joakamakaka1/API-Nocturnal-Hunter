@@ -4,7 +4,7 @@ This is an API developed with Spring Boot that acts as an intermediary between a
 It uses JPA for data persistence and Lombok to reduce boilerplate code.
 
 
-Features
+--Features--
 
 -Spring Boot: Main framework for API development.
 
@@ -15,11 +15,13 @@ Features
 -MySQL Workbench: Tool for designing and managing the database.
 
 
-Prerequisites
+--Prerequisites--
 
 Before you begin, ensure you have installed the following:
 
 
 -Java 11 or higher
+
 -Maven 3.6.3 or higher
+
 -MySQL Server and MySQL Workbench
