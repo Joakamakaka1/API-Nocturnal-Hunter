@@ -1,4 +1,5 @@
 --Nocturnal Hunters API--
+
 This is an API developed with Spring Boot that acts as an intermediary between a MySQL database and client requests. 
 It uses JPA for data persistence and Lombok to reduce boilerplate code.
 
